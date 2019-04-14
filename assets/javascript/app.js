@@ -1,4 +1,4 @@
-var card = $("#quiz-area");
+var card = $("#result");
 
 // Question set
 var questions = [{
